@@ -5,4 +5,4 @@ This repository contains curated instructional materials for the course **AI-Dri
 ## Contents
 The repository is organized into the following directories:
 * Lectures/ — Comprehensive lecture materials covering theoretical foundations and problem-solving sessions.
-* Projects/ — Applied research assignments and capstone projects integrating AI techniques with high energy physics datasets and simulations.
+* Assignments/ — Applied research assignments and capstone projects integrating AI techniques with high energy physics datasets and simulations.
